@@ -1,4 +1,4 @@
-import sequtils
+
 
 # Define a function to find if a number is a prime
 
