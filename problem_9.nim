@@ -10,7 +10,7 @@ for i in 1 ..< 1000:
         for k in 1 ..< 1000:
             if i + j + k == 1000 and k > j and j > i:
                 if pythagoras_func(i,j,k):
-                    echo i, j, k
+                    echo i," ", j," ", k
                     echo i * j * k
                     break
 
